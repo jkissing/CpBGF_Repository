@@ -24,6 +24,10 @@
 
 * CryptoDB-52_CparvumIowaII_Genome.fasta
 * CryptoDB-52_CparvumIowaII.gff
+* Extra subtelomeric regions
+  * [Chr7-5p](https://www.ncbi.nlm.nih.gov/nuccore/MZ892386.1)
+  * [Chr7-3p](https://www.ncbi.nlm.nih.gov/nuccore/MZ892388.1)
+  * [Chr8-3p](https://www.ncbi.nlm.nih.gov/nuccore/MZ892387.1)
 
 ### CpIOWA-ATCC annotation assembly had annotation updates in 2022 and 2023 (CryptoDB.org releases 59 and 63) to include the addition of lncRNAs. To prevent misclassifying lncRNAs as untranslated regions (UTRs) due to short-read RNAseq limitations, only coding sequence (CDS) information is retained in the updated ATCC annotation
 
