@@ -20,7 +20,7 @@
 * CryptoDB-37_CparvumIowaII_Genome.fasta
 * CryptoDB-37_CparvumIowaII.gff
 
-### *C. parvum* IOWA II (DNA obtained from ATCC) genome assembly and new annotation with all but three telomeres and adjacent genes was published in 20222 (GCA_015245375.1 and appeared in CryptoDB.org release 52
+### *C. parvum* IOWA II (DNA obtained from ATCC) genome assembly and new annotation with all but three telomeres and adjacent genes was published in 2022 (GCA_015245375.1 and appeared in CryptoDB.org release 52
 
 * CryptoDB-52_CparvumIowaII_Genome.fasta
 * CryptoDB-52_CparvumIowaII.gff
@@ -29,7 +29,7 @@
   * [Chr7-3p](https://www.ncbi.nlm.nih.gov/nuccore/MZ892388.1)
   * [Chr8-3p](https://www.ncbi.nlm.nih.gov/nuccore/MZ892387.1)
 
-### CpIOWA-ATCC annotation assembly had annotation updates in 2022 and 2023 (CryptoDB.org releases 59 and 63) to include the addition of lncRNAs. To prevent misclassifying lncRNAs as untranslated regions (UTRs) due to short-read RNAseq limitations, only coding sequence (CDS) information is retained in the updated ATCC annotation
+### CpIOWA-ATCC annotation assembly had annotation updates in 2022 and 2023 (CryptoDB.org releases 59 and 63) to include the addition of lncRNAs. To prevent misclassifying lncRNAs as untranslated regions (UTRs) due to short-read RNAseq limitations, only coding sequence (CDS) information is retained in the updated ATCC annotation.
 
 * CryptoDB-59_CparvumIowaII.gff
 * CryptoDB-60_CparvumIowaII.gff
