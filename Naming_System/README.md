@@ -1,4 +1,4 @@
-# Comparative IDs between BGF and the original IOWAII
+# Comparative GENE IDs between CpBGF and the original C. parvum IOWAII annotation
 
 *IOWA-ATCC and a sortable html version of will be available soon*
 
