@@ -3,7 +3,7 @@
 ## CpBGF V1 (full T2T 2023 assembly and annotation for *C. parvum* IOWA II (GCA_035232765.1) named CpBGF)
 
 * CpBGF_genome_V1.fasta
-* CpBGF_genome_V1.gff
+* CpBGF_genome_V1.1.gff
 * CpBGF_genome_V1_annotated_proteins.fasta
 
 ## CryptoDB genomes
